@@ -6,6 +6,34 @@
             "breed": "Poodle",
             "customerId": 1,
             "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Pat",
+            "breed": "Pitbull",
+            "customerId": 2,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Burk",
+            "breed": "German Shephard",
+            "customerId": 1,
+            "locationId": 1
+        },
+        {
+            "id": 4,
+            "name": "Snap",
+            "breed": "Chiwawa",
+            "customerId": 2,
+            "locationId": 2
+        },
+        {
+            "id": 5,
+            "name": "Rico",
+            "breed": "Pitbull",
+            "customerId": 2,
+            "locationId": 1
         }
     ],
     "customers": [
