@@ -18,7 +18,7 @@
             "id": 3,
             "name": "Burk",
             "breed": "German Shephard",
-            "customerId": 1,
+            "customerId": 3,
             "locationId": 1
         },
         {
@@ -32,7 +32,7 @@
             "id": 5,
             "name": "Rico",
             "breed": "Pitbull",
-            "customerId": 2,
+            "customerId": 3,
             "locationId": 1
         }
     ],
@@ -40,10 +40,44 @@
         {
             "id": 1,
             "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
+            "address": "7002 Chestnut Ct",
+            "animalId": 2
+        },
+        {
+            "id": 2,
+            "name": "Ceasar Breitenberg",
+            "address": "3353 Jaden Flat",
+            "animalId": 1
+        },
+        {
+            "id": 3,
+            "name": "Arne Rau",
+            "address": "0104 Boyle Burgs",
+            "animalId": 3
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Jaunita Medhurst",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Clementina Rolfson",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Charles Wuckert",
+            "locationId": 1
+        }
+    ],
     "locations": [
         {
             "id": 1,
