@@ -1,93 +1,103 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "customerId": 1,
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Pat",
-            "breed": "Pitbull",
-            "customerId": 2,
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Burk",
-            "breed": "German Shephard",
-            "customerId": 3,
-            "locationId": 1
-        },
-        {
-            "id": 4,
-            "name": "Snap",
-            "breed": "Chiwawa",
-            "customerId": 2,
-            "locationId": 2
-        },
-        {
-            "id": 5,
-            "name": "Rico",
-            "breed": "Pitbull",
-            "customerId": 3,
-            "locationId": 1
-        }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct",
-            "animalId": 2
-        },
-        {
-            "id": 2,
-            "name": "Ceasar Breitenberg",
-            "address": "3353 Jaden Flat",
-            "animalId": 1
-        },
-        {
-            "id": 3,
-            "name": "Arne Rau",
-            "address": "0104 Boyle Burgs",
-            "animalId": 3
-        }
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Jeremy Bakker",
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Jaunita Medhurst",
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Clementina Rolfson",
-            "locationId": 2
-        },
-        {
-            "id": 4,
-            "name": "Charles Wuckert",
-            "locationId": 1
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Pat",
+      "breed": "Pitbull",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Burk",
+      "breed": "German Shephard",
+      "customerId": 3,
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Snap",
+      "breed": "Chiwawa",
+      "customerId": 2,
+      "locationId": 2
+    },
+    {
+      "id": 5,
+      "name": "Rico",
+      "breed": "Pitbull",
+      "customerId": 3,
+      "locationId": 1
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct",
+      "animalId": 2
+    },
+    {
+      "id": 2,
+      "name": "Ceasar Breitenberg",
+      "address": "3353 Jaden Flat",
+      "animalId": 1
+    },
+    {
+      "id": 3,
+      "name": "Arne Rau",
+      "address": "0104 Boyle Burgs",
+      "animalId": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Jaunita Medhurst",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Clementina Rolfson",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Charles Wuckert",
+      "locationId": 1
+    },
+    {
+      "name": "Donald",
+      "locationId": 1,
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "name": "Hawaii",
+      "address": "114 Vacation Hwy",
+      "id": 3
+    }
+  ]
 }
