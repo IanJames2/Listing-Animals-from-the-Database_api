@@ -93,6 +93,11 @@
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive"
+    },
+    {
+      "name": "Hawaii",
+      "address": "114 Vacation Hwy",
+      "id": 3
     }
   ]
 }
